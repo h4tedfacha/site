@@ -11,16 +11,16 @@ https://templatemo.com/tm-588-ebook-landing
 -----------------------------------------*/
 :root {
   --white-color:                  #ffffff;
-  --primary-color:                #E76F51;
-  --secondary-color:              #E9C46A;
-  --section-bg-color:             #f0f8ff;
-  --custom-btn-bg-color:          #F4A261;
-  --custom-btn-bg-hover-color:    #E76F51;
+  --primary-color:                #B574F7;
+  --secondary-color:              #F774D4;
+  --section-bg-color:             #F7C7EA;
+  --custom-btn-bg-color:          #E074F7;
+  --custom-btn-bg-hover-color:    #F78674;
   --dark-color:                   #000000;
-  --p-color:                      #717275;
-  --link-hover-color:             #E76F51;
+  --p-color:                      #BA74F7;
+  --link-hover-color:             #8F74F7;
 
-  --body-font-family:             'Unbounded', sans-serif;
+  --body-font-family:             'Coolvetica', sans-serif;
 
   --h1-font-size:                 42px;
   --h2-font-size:                 36px;
@@ -44,7 +44,7 @@ https://templatemo.com/tm-588-ebook-landing
 }
 
 body {
-  background-color: var(--white-color);
+  background-color: var(--purple-color);
   font-family: var(--body-font-family); 
 }
 
